@@ -1,1 +1,1 @@
-console.log ("initailise coco")
+console.log ("initialise coco")
