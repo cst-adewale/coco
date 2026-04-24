@@ -1,4 +1,3 @@
-console.log ("initialise coco")
 const canvas = document.getElementById("wheel");
 const ctx = canvas.getContext("2d");
 
